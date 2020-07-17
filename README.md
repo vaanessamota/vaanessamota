@@ -6,9 +6,10 @@
 <br />
 
 ## About Me
-I'm currently majoring in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
-I'm passionate about entrepreneurship, programming, and economics! At the moment, I'm studying software development focusing on the Javascript stack and Flutter while I'm looking forward my first experience as a developer.
-
+- I'm currently majoring in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
+- I'm passionate about entrepreneurship, programming, and economics!
+- At the moment, I'm studying Software Development focusing on the Javascript Stack and Flutter while I'm looking forward my first experience as a developer.
+-  Always open to learn new things, and explore new technologies!
 
 ## Technologies
 - Frontend Development using **React.Js**
