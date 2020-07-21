@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-oliveira-04944b187/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vanessaoliveira2706@gmail.com)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-grey?style=flat&logo=Gitlab&logoColor=orange)](https://gitlab.com/vaanessamota)
 <br />
 <br />
 
