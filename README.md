@@ -13,9 +13,8 @@
 -  Always open to learn new things, and explore new technologies!
 
 ## Technologies
-- Frontend Development using **React.Js**
-- Backend Development using **Node.Js**
-- Mobile Development using **React Native and Flutter**
+
+- Mobile Development using **Flutter**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vaanessamota&show_icons=true)
 
