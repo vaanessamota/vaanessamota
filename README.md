@@ -1,4 +1,7 @@
-### Hi there, I'm Vanessa Oliveira, a Software Developer Student from Brazil 👋
+ ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=vaanessamota&countColorcountColor)
+ <br><br><br>
+
+### Hi there, I'm Vanessa Oliveira, Software Developer at [IZA.com.vc](https://iza.com.vc/)👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-oliveira-04944b187/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vanessaoliveira2706@gmail.com)
@@ -7,17 +10,23 @@
 <br />
 
 ## About Me
-- I'm currently majoring in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
+- Graduated in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
 - I'm passionate about entrepreneurship, programming, and economics!
-- At the moment, I'm studying Software Development focusing on the Javascript Stack and Flutter while I'm looking forward my first experience as a developer.
 -  Always open to learn new things, and explore new technologies!
+-  Hobbies are sports like soccer, judo and skateboarding
 
-## Technologies
 
-- Mobile Development using **Flutter**
+<div>
+ <a href="https://github.com/vaanessamota"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaanessamota&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanessamota&hide_border=true&theme=nightowl&show_icons=true"/>
+<div>
+<br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vaanessamota&show_icons=true)
 
+ ![Snake animation](https://github.com/alexandrabsouz/alexandrabsouz/blob/output/github-contribution-grid-snake.svg)
+
+ <br>
 
 
 <!--
