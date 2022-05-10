@@ -11,10 +11,12 @@
 
 ## About Me
 - Graduated in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
-- I'm passionate about entrepreneurship, programming, and economics!
--  Always open to learn new things, and explore new technologies!
--  Hobbies are sports like soccer, judo and skateboarding
+- I work part-time helping students to learn programming logic and mobile development with Flutter.
+- I'm passionate about entrepreneurship, programming, and education!
+- Always open to learn new things, and explore new technologies!
+- I love practicing sports, I am a Judo Brown Belt, and I have been a judo athlete.
 
+I truly believe that technology will lead us to a decentralized and better world.
 
 <div>
  <a href="https://github.com/vaanessamota"></a>
