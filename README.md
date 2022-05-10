@@ -1,7 +1,7 @@
  ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=vaanessamota&countColorcountColor)
  <br><br><br>
 
-### Hi there, I'm Vanessa Oliveira, Software Developer at [IZA.com.vc](https://iza.com.vc/)👋
+### Hi there, I'm Vanessa Oliveira, Software Developer at [Certsys](https://www.certsys.com.br/) | [Banco BV](https://www.bv.com.br/)👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-oliveira-04944b187/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vanessaoliveira2706@gmail.com)
