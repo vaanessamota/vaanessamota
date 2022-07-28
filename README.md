@@ -1,10 +1,10 @@
- ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=vaanessamota&countColorcountColor)
+ ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vaanessamota&repo=vaanessamota&countColorcountColor)
  <br><br><br>
 
 ### Hi there, I'm Vanessa Oliveira, Mobile Software Engineer at [Bridge 351](https://bridge351.com/home/) | [Ikigai Digital](https://www.ikigaidigital.io/) 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-oliveira-04944b187/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vanessaoliveira2706@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vanessamota.dev@gmail.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-grey?style=flat&logo=Gitlab&logoColor=orange)](https://gitlab.com/vaanessamota)
 <br />
 <br />
