@@ -1,6 +1,3 @@
- ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vaanessamota&repo=vaanessamota&countColorcountColor)
- <br><br><br>
-
 ### Hi there, I'm Vanessa Oliveira, Mobile Software Engineer at [Bridge 351](https://bridge351.com/home/) | [Ikigai Digital](https://www.ikigaidigital.io/) 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-oliveira-04944b187/)
