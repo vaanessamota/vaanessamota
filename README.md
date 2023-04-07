@@ -8,10 +8,11 @@
 
 ## About Me
 - Graduated in Science and Technology with an emphasis in Computer Engineering at Federal University of Maranhão - UFMA.
-- I work part-time helping students to learn programming logic and mobile development with Flutter.
+- I'm a developer who cares about project quality and advocates for programming best practices.
+- Also, I enjoy being part of projects that positively impact people's lives.
 - I'm passionate about entrepreneurship, programming, and education!
-- Always open to learn new things, and explore new technologies!
-- I love practicing sports, I am a Judo Brown Belt, and I have been a judo athlete.
+- Always open to learning new things, and exploring new technologies!
+- I love practicing sports, especially judo, and footvolley, I used to be a judo athlete in the past.
 
 I truly believe that technology will lead us to a decentralized and better world.
 
